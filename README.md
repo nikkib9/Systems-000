@@ -19,3 +19,6 @@ Converts: Dec-Bin, Dec-Oct, Dec-Hex, Dec-User Entered Base, Base-Dec
 # int-sq-cb:
 Prints integer, its square, its cube.
 Prints in a column and iterates 9 times.
+
+# magic-8-ball:
+User enters name and question.  Computer responds
